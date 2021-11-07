@@ -36,7 +36,8 @@ const validateRegistryEntry = (entry)=>{
     entries.forEach((entry)=>{
         const valid = validateRegistryEntry(entry)
         if (!valid){
-            throw new Error('Invalid registry entry: ' + JSON.stringify(entry, null, 2));
+            throw new Error('❌ Invalid registry entry: ' + JSON.stringify(entry, null, 2));
         }
     })
+    console.log('✅  did method registry is valid');
 })();

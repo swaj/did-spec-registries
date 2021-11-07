@@ -18,4 +18,12 @@ jobs:
         working-directory: scripts
         run: npm run registry:validate
 
+      # See comment here:
+      # https://github.com/w3c/did-spec-registries/pull/357/files#r744278306
+      # Note that this will have to happen in the action that deploys PR previews as well.
+      # - name: Generate Registstry Index
+      #   working-directory: scripts
+      #   run: npm run registry:generate:index
+      
+
       
