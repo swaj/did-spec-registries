@@ -5,7 +5,7 @@ const fs   = require('fs');
 const path   = require('path');
 const ajv = new Ajv({ strict: false });
 
-const didMethodRegistryDirectory = path.join(__dirname, '../example-registry');
+const didMethodRegistryDirectory = path.join(__dirname, '../methods');
  
 const schema = yaml.load(fs.readFileSync('./did-method-registry-entry.yml', 'utf8'));
 const validate = ajv.compile(schema)
