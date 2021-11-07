@@ -12,7 +12,10 @@ const validate = ajv.compile(schema)
   
 const getAllRegistryEntries = () =>{
     const files = fs.readdirSync(didMethodRegistryDirectory);
-    const entries = files.map((file) => {
+    const entries = files.filter((file)=>{
+        // ignore the index file.
+        return file !== 'index.json';
+    }).map((file) => {
         const fileContent = fs.readFileSync(path.join(didMethodRegistryDirectory, file)).toString();
         return JSON.parse(fileContent);
     }).sort((a, b)=>{
