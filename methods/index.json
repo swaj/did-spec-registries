@@ -1,0 +1,1019 @@
+[
+  {
+    "name": "3",
+    "status": "registered",
+    "verifiableDataRegistry": "Ceramic Network",
+    "contactName": "Joel Thorstensson",
+    "contactEmail": "oed@3box.io",
+    "contactWebsite": "",
+    "specification": "https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-79/CIP-79.md"
+  },
+  {
+    "name": "abt",
+    "status": "registered",
+    "verifiableDataRegistry": "ABT Network",
+    "contactName": "ArcBlock",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://arcblock.github.io/abt-did-spec/"
+  },
+  {
+    "name": "aergo",
+    "status": "registered",
+    "verifiableDataRegistry": "<a href=\"https://www.aergo.io/\">Aergo</a>",
+    "contactName": "Blocko",
+    "contactEmail": "",
+    "contactWebsite": "https://www.blocko.io/",
+    "specification": "https://github.com/aergoio/aergo-identity/blob/master/doc/did-method-spec.md"
+  },
+  {
+    "name": "ala",
+    "status": "registered",
+    "verifiableDataRegistry": "Alastria",
+    "contactName": "Alastria National Blockchain Ecosystem",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/alastria/alastria-identity/wiki/Alastria-DID-Method-Specification-(Quorum-version)"
+  },
+  {
+    "name": "amo",
+    "status": "registered",
+    "verifiableDataRegistry": "AMO blockchain mainnet",
+    "contactName": "AMO Labs",
+    "contactEmail": "",
+    "contactWebsite": "https://amo.foundation",
+    "specification": "https://github.com/amolabs/docs/blob/master/amo-did.md"
+  },
+  {
+    "name": "bba",
+    "status": "registered",
+    "verifiableDataRegistry": "Ardor",
+    "contactName": "Attila Aldemir",
+    "contactEmail": "attila.aldemir@atz3n.dev",
+    "contactWebsite": "",
+    "specification": "https://github.com/blobaa/bba-did-method-specification/blob/master/docs/markdown/spec.md"
+  },
+  {
+    "name": "bid",
+    "status": "registered",
+    "verifiableDataRegistry": "bif",
+    "contactName": "teleinfo caict",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/teleinfo-bif/bid/tree/master/doc/en"
+  },
+  {
+    "name": "bnb",
+    "status": "registered",
+    "verifiableDataRegistry": "Binance Smart Chain",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-method-specs/blob/master/did-bnb/DID-Method-bnb.md"
+  },
+  {
+    "name": "bryk",
+    "status": "registered",
+    "verifiableDataRegistry": "bryk",
+    "contactName": "Marcos Allende, Sandra Murcia, Flavia Munhoso, Ruben Cessa",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/bryk-io/did-method/blob/master/README.md"
+  },
+  {
+    "name": "btcr",
+    "status": "registered",
+    "verifiableDataRegistry": "Bitcoin",
+    "contactName": "Christopher Allen, Ryan Grant, Kim Hamilton Duffy",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://w3c-ccg.github.io/didm-btcr"
+  },
+  {
+    "name": "ccp",
+    "status": "registered",
+    "verifiableDataRegistry": "Quorum",
+    "contactName": "Baidu, Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://did.baidu.com/did-spec/"
+  },
+  {
+    "name": "celo",
+    "status": "registered",
+    "verifiableDataRegistry": "Celo",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-method-specs/blob/master/did-celo/DID-Method-celo.md"
+  },
+  {
+    "name": "com",
+    "status": "registered",
+    "verifiableDataRegistry": "commercio.network",
+    "contactName": "Commercio Consortium",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/commercionetwork/Commercio.network-DID-Method-Specification/"
+  },
+  {
+    "name": "corda",
+    "status": "registered",
+    "verifiableDataRegistry": "Corda",
+    "contactName": "Nitesh Solanki,Moritz Platt,Pranav Kirtani",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://htmlpreview.github.io/?https://github.com/persistentsystems/corda-did-method/blob/master/corda_did_method.html"
+  },
+  {
+    "name": "did",
+    "status": "registered",
+    "verifiableDataRegistry": "Decentralized Identifiers",
+    "contactName": "Spruce Systems, Inc.",
+    "contactEmail": "",
+    "contactWebsite": "https://spruceid.com",
+    "specification": "https://did-did.spruceid.com"
+  },
+  {
+    "name": "dns",
+    "status": "registered",
+    "verifiableDataRegistry": "Domain Name System (DNS)",
+    "contactName": "Danube Tech",
+    "contactEmail": "markus@danubetech.com",
+    "contactWebsite": "https://danubetech.com",
+    "specification": "https://danubetech.github.io/did-method-dns/"
+  },
+  {
+    "name": "dock",
+    "status": "registered",
+    "verifiableDataRegistry": "Dock",
+    "contactName": "Dock.io",
+    "contactEmail": "",
+    "contactWebsite": "https://www.dock.io",
+    "specification": "https://github.com/docknetwork/dock-did-driver/blob/master/Dock%20DID%20method%20specification.md"
+  },
+  {
+    "name": "dom",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Dominode",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": ""
+  },
+  {
+    "name": "dual",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Smart ID Card Alliance",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/Smart-ID-Card/Dual-DID/blob/main/docs/dual-did-method.md"
+  },
+  {
+    "name": "echo",
+    "status": "registered",
+    "verifiableDataRegistry": "Echo",
+    "contactName": "Echo Technological Solutions LLC",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/echoprotocol/uni-resolver-driver-did-echo/blob/master/echo_did_specifications.md"
+  },
+  {
+    "name": "elastos",
+    "status": "registered",
+    "verifiableDataRegistry": "Elastos ID Sidechain",
+    "contactName": "Elastos Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/elastos/Elastos.DID.Method/blob/master/DID/Elastos-DID-Method-Specification_en.md"
+  },
+  {
+    "name": "elem",
+    "status": "registered",
+    "verifiableDataRegistry": "Element DID",
+    "contactName": "Transmute",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/decentralized-identity/element/blob/master/docs/did-method-spec/spec.md"
+  },
+  {
+    "name": "emtrust",
+    "status": "registered",
+    "verifiableDataRegistry": "Hyperledger Fabric",
+    "contactName": "Halialabs Pte Ltd.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/Halialabs/did-spec/blob/gh-pages/readme.md"
+  },
+  {
+    "name": "ens",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "ConsenSys MESH",
+    "contactEmail": "oliver.terbu@mesh.xyz",
+    "contactWebsite": "https://mesh.xyz",
+    "specification": "https://github.com/veramolabs/did-ens-spec"
+  },
+  {
+    "name": "eosio",
+    "status": "registered",
+    "verifiableDataRegistry": "EOSIO",
+    "contactName": "Gimly Blockchain",
+    "contactEmail": "",
+    "contactWebsite": "https://gimly.io",
+    "specification": "https://github.com/Gimly-Blockchain/eosio-did-spec"
+  },
+  {
+    "name": "erc725",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Markus Sabadello, Fabian Vogelsteller, Peter Kolarov",
+    "contactEmail": "markus@danubetech.com",
+    "contactWebsite": "",
+    "specification": "https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/DID-Method-erc725.md"
+  },
+  {
+    "name": "etho",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-method-specs/blob/master/did-etho/DID-Method-etho.md"
+  },
+  {
+    "name": "ethr",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "uPort",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md"
+  },
+  {
+    "name": "evan",
+    "status": "registered",
+    "verifiableDataRegistry": "evan.network",
+    "contactName": "evan GmbH",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/evannetwork/evan.network-DID-method-specification/blob/master/evan_did_method_spec.md"
+  },
+  {
+    "name": "example",
+    "status": "registered",
+    "verifiableDataRegistry": "DID Specification",
+    "contactName": "W3C DID Working Group",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://www.w3.org/TR/did-core/"
+  },
+  {
+    "name": "factom",
+    "status": "registered",
+    "verifiableDataRegistry": "Factom",
+    "contactName": "Sphereon, Factomatic, Factom Inc",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/factom-protocol/FIS/blob/master/FIS/DID.md"
+  },
+  {
+    "name": "future",
+    "status": "registered",
+    "verifiableDataRegistry": "Netease Chain",
+    "contactName": "Netease Blockchain Team",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/netease-chain/Future-DID-Method-Specification/blob/main/README.md"
+  },
+  {
+    "name": "gatc",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum, Hyperledger Fabric, Hyperledger Besu, Alastria",
+    "contactName": "Gataca",
+    "contactEmail": "",
+    "contactWebsite": "https://gataca.io/",
+    "specification": "https://github.com/gatacaid/gataca-did-method"
+  },
+  {
+    "name": "grg",
+    "status": "registered",
+    "verifiableDataRegistry": "GrgChain",
+    "contactName": "GRGBanking Blockchain Express Co. Ltd.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/GrgChain/DID-method-specs/blob/master/README.md"
+  },
+  {
+    "name": "hedera",
+    "status": "registered",
+    "verifiableDataRegistry": "Hedera Hashgraph",
+    "contactName": "Hedera Hashgraph, Swisscom Blockchain AG",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/hashgraph/did-method/blob/master/did-method-specification.md"
+  },
+  {
+    "name": "holo",
+    "status": "registered",
+    "verifiableDataRegistry": "Holochain",
+    "contactName": "Holo.Host",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/did:hc-method.md"
+  },
+  {
+    "name": "hpass",
+    "status": "registered",
+    "verifiableDataRegistry": "Hyperledger Fabric",
+    "contactName": "IBM",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/IBM/hpass/blob/main/doc/did-spec.md"
+  },
+  {
+    "name": "icon",
+    "status": "registered",
+    "verifiableDataRegistry": "ICON",
+    "contactName": "ICONLOOP",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/icon-project/icon-DID/blob/master/docs/ICON-DID-method.md"
+  },
+  {
+    "name": "infra",
+    "status": "registered",
+    "verifiableDataRegistry": "<a href=\"https://infrablockchain.com\">InfraBlockchain</a>",
+    "contactName": "Blockchain Labs",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/InfraBlockchain/infra-did-method-specs/blob/main/docs/Infra-DID-method-spec.md"
+  },
+  {
+    "name": "io",
+    "status": "registered",
+    "verifiableDataRegistry": "IoTeX",
+    "contactName": "IoTeX Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/iotexproject/iotex-did/blob/master/README.md"
+  },
+  {
+    "name": "ion",
+    "status": "registered",
+    "verifiableDataRegistry": "Bitcoin",
+    "contactName": "Various DIF contributors",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/decentralized-identity/ion-did-method"
+  },
+  {
+    "name": "iota",
+    "status": "registered",
+    "verifiableDataRegistry": "IOTA",
+    "contactName": "IOTA Foundation",
+    "contactEmail": "",
+    "contactWebsite": "https://iota.org",
+    "specification": "https://wiki.iota.org/identity.rs/specs/did/iota_did_method_spec"
+  },
+  {
+    "name": "ipid",
+    "status": "registered",
+    "verifiableDataRegistry": "IPFS",
+    "contactName": "TranSendX",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://did-ipid.github.io/ipid-did-method/"
+  },
+  {
+    "name": "is",
+    "status": "registered",
+    "verifiableDataRegistry": "Blockcore",
+    "contactName": "Blockcore",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/block-core/blockcore-did-method"
+  },
+  {
+    "name": "iwt",
+    "status": "registered",
+    "verifiableDataRegistry": "InfoWallet",
+    "contactName": "Raonsecure",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/infowallet/did_method/blob/master/did_method.md"
+  },
+  {
+    "name": "jlinc",
+    "status": "registered",
+    "verifiableDataRegistry": "JLINC Protocol",
+    "contactName": "Victor Grey",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://did-spec.jlinc.org/"
+  },
+  {
+    "name": "jnctn",
+    "status": "registered",
+    "verifiableDataRegistry": "Jnctn Network",
+    "contactName": "Jnctn Limited",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/jnctn/did-method-spec/"
+  },
+  {
+    "name": "jolo",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Jolocom",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/jolocom/jolo-did-method/blob/master/jolocom-did-method-specification.md"
+  },
+  {
+    "name": "keri",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "Dr. Sam Smith, Charles Cunningham, Phil Feairheller",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://identity.foundation/keri/did_methods/"
+  },
+  {
+    "name": "key",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger-independent DID method based on public/private key pairs",
+    "contactName": "Rick Astley (thank you for your inspiration), Manu Sporny, Dmitri Zagidulin, Dave Longley, Orie Steele",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://w3c-ccg.github.io/did-method-key/"
+  },
+  {
+    "name": "kilt",
+    "status": "registered",
+    "verifiableDataRegistry": "KILT Blockchain",
+    "contactName": "BOTLabs GmbH",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/KILTprotocol/kilt-did-driver/blob/master/DID%20Method%20Specification.md"
+  },
+  {
+    "name": "klay",
+    "status": "registered",
+    "verifiableDataRegistry": "Klaytn",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-method-specs/blob/master/did-klay/DID-Method-klay.md"
+  },
+  {
+    "name": "kr",
+    "status": "registered",
+    "verifiableDataRegistry": "Korea Mobile Identity System",
+    "contactName": "Ministry of the Interior and Safety, korea",
+    "contactEmail": "",
+    "contactWebsite": "https://github.com/identify202020/did-method/blob/main/did_author.md",
+    "specification": "https://github.com/identify202020/did-method/blob/main/did_kr_method.md"
+  },
+  {
+    "name": "lac",
+    "status": "registered",
+    "verifiableDataRegistry": "LACChain Network",
+    "contactName": "LACChain Alliance",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/lacchain/lacchain-did-registry/blob/master/DID_SPEC.md"
+  },
+  {
+    "name": "life",
+    "status": "registered",
+    "verifiableDataRegistry": "RChain",
+    "contactName": "lifeID Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://lifeid.github.io/did-method-spec/"
+  },
+  {
+    "name": "lit",
+    "status": "registered",
+    "verifiableDataRegistry": "LEDGIS",
+    "contactName": "IBCT",
+    "contactEmail": "",
+    "contactWebsite": "http://en.ibct.kr",
+    "specification": "https://github.com/ibct-dev/lit-DID/blob/main/docs/did:lit-method-spec_eng_v0.1.0.md"
+  },
+  {
+    "name": "meme",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "DID Meme Maintainers",
+    "contactEmail": "",
+    "contactWebsite": "https://didme.me/",
+    "specification": "https://github.com/OR13/didme.me#did-method-spec"
+  },
+  {
+    "name": "meta",
+    "status": "registered",
+    "verifiableDataRegistry": "Metadium",
+    "contactName": "Metadium Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/METADIUM/meta-DID/blob/master/doc/DID-method-metadium.md"
+  },
+  {
+    "name": "moac",
+    "status": "registered",
+    "verifiableDataRegistry": "MOAC",
+    "contactName": "MOAC Blockchain Tech, Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/DavidRicardoWilde/moac-did/blob/master/did-moac-method.md"
+  },
+  {
+    "name": "monid",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Min Ju",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://lianxi-tech.github.io/monid/"
+  },
+  {
+    "name": "morpheus",
+    "status": "registered",
+    "verifiableDataRegistry": "Hydra",
+    "contactName": "Internet of People",
+    "contactEmail": "",
+    "contactWebsite": "https://iop.global/",
+    "specification": "https://developer.iop.global/w3c"
+  },
+  {
+    "name": "mydata",
+    "status": "registered",
+    "verifiableDataRegistry": "iGrant.io",
+    "contactName": "iGrant.io",
+    "contactEmail": "",
+    "contactWebsite": "https://igrant.io/",
+    "specification": "https://github.com/decentralised-dataexchange/automated-data-agreements/blob/main/docs/did-spec.md"
+  },
+  {
+    "name": "near",
+    "status": "registered",
+    "verifiableDataRegistry": "NEAR",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-spec-near/blob/master/NEAR/DID-Method-NEAR.md"
+  },
+  {
+    "name": "nft",
+    "status": "registered",
+    "verifiableDataRegistry": "Ceramic Network",
+    "contactName": "Joel Thorstensson",
+    "contactEmail": "oed@3box.io",
+    "contactWebsite": "",
+    "specification": "https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-94/CIP-94.md"
+  },
+  {
+    "name": "ockam",
+    "status": "registered",
+    "verifiableDataRegistry": "Ockam",
+    "contactName": "Ockam",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ockam-network/did-method-spec/blob/master/README.md"
+  },
+  {
+    "name": "omn",
+    "status": "registered",
+    "verifiableDataRegistry": "OmniOne",
+    "contactName": "OmniOne",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/OmniOneID/did_method/blob/master/did_method.md"
+  },
+  {
+    "name": "onion",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "Blockchain Commons",
+    "contactEmail": "",
+    "contactWebsite": "https://github.com/BlockchainCommons/did-method-onion",
+    "specification": "https://blockchaincommons.github.io/did-method-onion/"
+  },
+  {
+    "name": "ont",
+    "status": "registered",
+    "verifiableDataRegistry": "Ontology",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontio/ontology-DID/blob/master/docs/en/DID-ONT-method.md"
+  },
+  {
+    "name": "op",
+    "status": "registered",
+    "verifiableDataRegistry": "Ocean Protocol",
+    "contactName": "Ocean Protocol",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/oceanprotocol/OEPs/blob/master/7/v0.2/README.md"
+  },
+  {
+    "name": "orb",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "SecureKey",
+    "contactEmail": "",
+    "contactWebsite": "https://securekey.com/",
+    "specification": "https://trustbloc.github.io/did-method-orb/"
+  },
+  {
+    "name": "oyd",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "OwnYourData.eu",
+    "contactEmail": "",
+    "contactWebsite": "https://ownyourdata.eu/",
+    "specification": "https://github.com/OwnYourData/did-cmd/blob/main/docs/did-spec.md"
+  },
+  {
+    "name": "panacea",
+    "status": "registered",
+    "verifiableDataRegistry": "Panacea",
+    "contactName": "MediBloc",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/medibloc/panacea-core/blob/master/docs/did.md"
+  },
+  {
+    "name": "peer",
+    "status": "registered",
+    "verifiableDataRegistry": "peer",
+    "contactName": "Daniel Hardman",
+    "contactEmail": "daniel.hardman@gmail.com",
+    "contactWebsite": "",
+    "specification": "https://identity.foundation/peer-did-method-spec/index.html"
+  },
+  {
+    "name": "pistis",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Andrea Taglia, Matteo Sinico",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/uino95/ssi/blob/consensys/dashboard/server/pistis/pistis-did-resolver/README.md"
+  },
+  {
+    "name": "pkh",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger-independent generative DID method based on CAIP-10 keypair expressions",
+    "contactName": "Wayne Chang, Charles Lehner, Juan Caballero",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/spruceid/ssi/blob/9ecc25cb4082709d146206b779cf8e8442f9eaf3/did-pkh/did-pkh-method-draft.md"
+  },
+  {
+    "name": "pml",
+    "status": "registered",
+    "verifiableDataRegistry": "PML Chain",
+    "contactName": "Purple Mountain Laboratories",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/PML-ID/pml-did-specs/blob/main/did-method.md"
+  },
+  {
+    "name": "polygon",
+    "status": "registered",
+    "verifiableDataRegistry": "Polygon (Previously MATIC)",
+    "contactName": "AyanWorks, MATIC",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ayanworks/polygon-did-method-spec"
+  },
+  {
+    "name": "ptn",
+    "status": "registered",
+    "verifiableDataRegistry": "PalletOne",
+    "contactName": "PalletOne",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/palletone/palletone-DID/blob/master/docs/did-method/README.md"
+  },
+  {
+    "name": "safe",
+    "status": "registered",
+    "verifiableDataRegistry": "Gnosis Safe",
+    "contactName": "Gnosis Ltd.",
+    "contactEmail": "safe@gnosis.io",
+    "contactWebsite": "",
+    "specification": "https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-101/CIP-101.md"
+  },
+  {
+    "name": "san",
+    "status": "registered",
+    "verifiableDataRegistry": "SAN Cloudchain",
+    "contactName": "YLZ Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/Baasze/DID-method-specification"
+  },
+  {
+    "name": "schema",
+    "status": "registered",
+    "verifiableDataRegistry": "Multiple storage networks, currently public IPFS and evan.network IPFS",
+    "contactName": "51nodes GmbH",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/51nodes/schema-registry-did-method/blob/master/README.md"
+  },
+  {
+    "name": "selfkey",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "SelfKey",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/SelfKeyFoundation/selfkey-identity/blob/develop/DIDMethodSpecs.md"
+  },
+  {
+    "name": "sideos",
+    "status": "registered",
+    "verifiableDataRegistry": "Ledger agnostic",
+    "contactName": "sideos GmbH",
+    "contactEmail": "",
+    "contactWebsite": "https://sideos.io",
+    "specification": "https://github.com/sideos/sideos-did-method"
+  },
+  {
+    "name": "signor",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum, Hedera Hashgraph, Quorum, Hyperledger Besu",
+    "contactName": "Cryptonics",
+    "contactEmail": "",
+    "contactWebsite": "https://cryptonics.consulting/",
+    "specification": "https://github.com/cryptonicsconsulting/signor-did-contracts/blob/master/did-method-spec.md"
+  },
+  {
+    "name": "sirius",
+    "status": "registered",
+    "verifiableDataRegistry": "ProximaX Sirius Chain",
+    "contactName": "ProximaX Singapore Pte. Ltd.",
+    "contactEmail": "",
+    "contactWebsite": "https://www.proximax.ltd",
+    "specification": "https://gitlab.com/proximax-enterprise/siriusid/sirius-id-specs/-/blob/master/docs/did-method-spec.md"
+  },
+  {
+    "name": "sol",
+    "status": "registered",
+    "verifiableDataRegistry": "Solana",
+    "contactName": "Daniel Kelleher",
+    "contactEmail": "",
+    "contactWebsite": "https://github.com/dankelleher",
+    "specification": "https://identity-com.github.io/sol-did/did-method-spec.html"
+  },
+  {
+    "name": "sov",
+    "status": "registered",
+    "verifiableDataRegistry": "Sovrin",
+    "contactName": "Mike Lodder",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html"
+  },
+  {
+    "name": "ssb",
+    "status": "registered",
+    "verifiableDataRegistry": "Secure Scuttlebutt",
+    "contactName": "Charles E. Lehner",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://viewer.scuttlebot.io/&amp;5Bne/slGKH/i1361qemVlNBElWInSUfntlWvMXaD4M4=.sha256?hl=zQmdh4Ya6WasmjnS4UMn5ot6k5tbCypy1oyhhdJ6yB6MjfT"
+  },
+  {
+    "name": "ssw",
+    "status": "registered",
+    "verifiableDataRegistry": "Initial Network",
+    "contactName": "SK telecom",
+    "contactEmail": "",
+    "contactWebsite": "https://www.sktelecom.com/index_en.html",
+    "specification": "https://sktston.github.io/ssw-did/did-method-spec.html"
+  },
+  {
+    "name": "stack",
+    "status": "registered",
+    "verifiableDataRegistry": "Bitcoin",
+    "contactName": "Jude Nelson",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/blockstack/blockstack-core/blob/stacks-1.0/docs/blockstack-did-spec.md"
+  },
+  {
+    "name": "tangle",
+    "status": "registered",
+    "verifiableDataRegistry": "IOTA Tangle",
+    "contactName": "BiiLabs Co., Ltd.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/TangleID/TangleID/blob/develop/did-method-spec.md"
+  },
+  {
+    "name": "tls",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Ulrich Gallersdörfer, Kilian Käslin",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": ""
+  },
+  {
+    "name": "trust",
+    "status": "registered",
+    "verifiableDataRegistry": "TrustChain",
+    "contactName": "TrustCerts GmbH",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/trustcerts/did-trust-method/blob/main/README.md"
+  },
+  {
+    "name": "trustbloc",
+    "status": "registered",
+    "verifiableDataRegistry": "Hyperledger Fabric",
+    "contactName": "SecureKey",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/trustbloc/trustbloc-did-method/blob/master/docs/spec/trustbloc-did-method.md"
+  },
+  {
+    "name": "trx",
+    "status": "registered",
+    "verifiableDataRegistry": "TRON",
+    "contactName": "Ontology Foundation",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/ontology-tech/DID-method-specs/blob/master/did-trx/DID-Method-trx.md"
+  },
+  {
+    "name": "ttm",
+    "status": "registered",
+    "verifiableDataRegistry": "TMChain",
+    "contactName": "Token.TM",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/TokenTM/TM-DID/blob/master/docs/en/DID_spec.md"
+  },
+  {
+    "name": "twit",
+    "status": "registered",
+    "verifiableDataRegistry": "Twit",
+    "contactName": "DID Twit GitHub",
+    "contactEmail": "",
+    "contactWebsite": "https://github.com/did-twit/did-twit/blob/master/spec/index.md",
+    "specification": "https://did-twit.github.io/did-twit/"
+  },
+  {
+    "name": "tyron",
+    "status": "registered",
+    "verifiableDataRegistry": "Zilliqa",
+    "contactName": "Julio Cabrapan Duarte",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://www.tyronzil.com"
+  },
+  {
+    "name": "tys",
+    "status": "registered",
+    "verifiableDataRegistry": "DID Specification",
+    "contactName": "Chainyard",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/chainyard-tys/tys/blob/master/README.md"
+  },
+  {
+    "name": "tz",
+    "status": "registered",
+    "verifiableDataRegistry": "Tezos",
+    "contactName": "Spruce Systems, Inc.",
+    "contactEmail": "",
+    "contactWebsite": "https://spruceid.com",
+    "specification": "https://did-tezos.spruceid.com"
+  },
+  {
+    "name": "unik",
+    "status": "registered",
+    "verifiableDataRegistry": "<a href=\"https://docs.uns.network/\">uns.network</a>",
+    "contactName": "Space Elephant SAS",
+    "contactEmail": "",
+    "contactWebsite": "https://www.spacelephant.org/",
+    "specification": "https://github.com/unik-name/did-method-spec/blob/main/did-unik/UNIK-DID-Specification.md"
+  },
+  {
+    "name": "unisot",
+    "status": "registered",
+    "verifiableDataRegistry": "Bitcoin SV",
+    "contactName": "UNISOT AS",
+    "contactEmail": "",
+    "contactWebsite": "https://www.unisot.com",
+    "specification": "https://gitlab.com/unisot-did/unisot-did-method-specification"
+  },
+  {
+    "name": "uns",
+    "status": "registered",
+    "verifiableDataRegistry": "<a href=\"https://docs.uns.network/\">uns.network</a>",
+    "contactName": "Space Elephant SAS",
+    "contactEmail": "",
+    "contactWebsite": "https://www.spacelephant.org/",
+    "specification": "https://github.com/unik-name/did-method-spec/blob/main/did-uns/UNS-DID-Specification.md"
+  },
+  {
+    "name": "uport",
+    "status": "deprecated",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "uPort",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": ""
+  },
+  {
+    "name": "v1",
+    "status": "registered",
+    "verifiableDataRegistry": "Veres One",
+    "contactName": "Digital Bazaar",
+    "contactEmail": "",
+    "contactWebsite": "https://digitalbazaar.com/",
+    "specification": "https://w3c-ccg.github.io/did-method-v1/"
+  },
+  {
+    "name": "vaa",
+    "status": "registered",
+    "verifiableDataRegistry": "bif",
+    "contactName": "China Academy of Information and Communications Technology (CAICT)",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/caict-develop-zhangbo/vaa-method/blob/master/README.md"
+  },
+  {
+    "name": "vaultie",
+    "status": "registered",
+    "verifiableDataRegistry": "Ethereum",
+    "contactName": "Vaultie Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/vaultie/vaultie-did-method/blob/master/vaultie-did-method-specification.md"
+  },
+  {
+    "name": "vid",
+    "status": "registered",
+    "verifiableDataRegistry": "VP",
+    "contactName": "VP Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/vpayment/did-method-spec/blob/master/vid.md"
+  },
+  {
+    "name": "vivid",
+    "status": "registered",
+    "verifiableDataRegistry": "NEO2, NEO3, Zilliqa",
+    "contactName": "Vivid",
+    "contactEmail": "",
+    "contactWebsite": "https://getviv.id/",
+    "specification": "https://github.com/Moonlight-io/specs/blob/master/did-method-spec.md"
+  },
+  {
+    "name": "vvo",
+    "status": "registered",
+    "verifiableDataRegistry": "Vivvo",
+    "contactName": "Vivvo Application Studios",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://vivvo.github.io/vivvo-did-scheme/spec/did-method-spec-template.html"
+  },
+  {
+    "name": "web",
+    "status": "registered",
+    "verifiableDataRegistry": "Web",
+    "contactName": "Oliver Terbu, Mike Xu, Dmitri Zagidulin, Amy Guy",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://github.com/w3c-ccg/did-method-web"
+  },
+  {
+    "name": "wlk",
+    "status": "registered",
+    "verifiableDataRegistry": "Weelink Network",
+    "contactName": "Weelink",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://weelink-team.github.io/weelink/DIDDesignEn"
+  },
+  {
+    "name": "work",
+    "status": "registered",
+    "verifiableDataRegistry": "Hyperledger Fabric",
+    "contactName": "Workday, Inc.",
+    "contactEmail": "",
+    "contactWebsite": "",
+    "specification": "https://workday.github.io/work-did-method-spec/"
+  }
+]
